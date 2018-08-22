@@ -10,4 +10,6 @@ weight = 0
 The Weighted Companion Cube is a recurring object and pseudo-character in the Portal universe.
 <!--more-->
 
-PLA, <a href="http://www.icefilaments.com/pla.php">icy white filament</a>, non post-processed.
+PLA, non post-processed.
+
+{{< thing 154177 "Extra Printable Companion Cube" reisender1673 >}}

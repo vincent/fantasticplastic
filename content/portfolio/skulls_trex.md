@@ -13,7 +13,7 @@ T-Rex skull
 
 PLA, smoothed with <a href="https://www.amazon.com/Pacer-Technology-Zap-Z-Poxy-Minute/dp/B00SXJJ4I4">Z-Poxy</a>, sanded, and painted with acrylic.
 
-Source: {{< thing 308335 "The T-Rex Skull" MakerBot >}}
+{{< thing 308335 "The T-Rex Skull" MakerBot >}}
 
 I used a dry brush technique, similar to what's described <a href="https://www.youtube.com/watch?v=bG6aOyr7JUE">here</a> and <a href="https://www.youtube.com/watch?v=C9QmhHYrALk">there</a>.
 

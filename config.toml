@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Fanstatic PLAstic"
 theme = "creative"
+publishDir = "docs"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet

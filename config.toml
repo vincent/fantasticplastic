@@ -7,7 +7,7 @@ publishDir = "docs"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "sea"
   description = "3D printed objects"
   copyright = "&copy;2016 Vincent Lark"
   sidebarAbout = [
@@ -28,18 +28,18 @@ publishDir = "docs"
   email = "vincent.lark@gmail.com"
 
   # Nav links in the side bar
-  #  [[params.navlinks]]
-  #  name = "Home"
-  #  url = "portfolio/"
-  #  home = true
-  #
+  [[params.navlinks]]
+    name = "Things"
+    url = "portfolio/"
+    home = true
+  
   #  [[params.navlinks]]
   #  name = "About"
   #  url = "about/"
   #
-  #  [[params.navlinks]]
-  #  name = "Get in touch"
-  #  url = "contact/"
+  [[params.navlinks]]
+    name = "Get in touch"
+    url = "contact/"
 
   [params.social]
   email         = "vincent.lark@gmail.com"

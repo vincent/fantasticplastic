@@ -11,7 +11,7 @@ weight = 0
 T-Rex skull
 <!--more-->
 
-PLA, smoothed with <a href="https://www.amazon.com/Pacer-Technology-Zap-Z-Poxy-Minute/dp/B00SXJJ4I4">Z-Poxy</a>, sanded, and painted with acrylic.
+PLA, smoothed with {{< zpoxy >}}, sanded, and painted with acrylic.
 
 {{< thing 308335 "The T-Rex Skull" MakerBot >}}
 

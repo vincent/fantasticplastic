@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vincent.github.io/fantasticplastic/portfolio/skulls_trex/</loc>
+    <loc>https://vincent.github.io/fantasticplastic/things/skull-trex/</loc>
     <lastmod>2018-08-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://vincent.github.io/fantasticplastic/portfolio/portal-cubes/</loc>
+    <loc>https://vincent.github.io/fantasticplastic/things/portal-cubes/</loc>
     <lastmod>2018-08-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincent.github.io/fantasticplastic/things/fillenium-malcom/</loc>
+    <lastmod>2018-06-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincent.github.io/fantasticplastic/things/mario-star/</loc>
+    <lastmod>2018-04-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -29,13 +39,13 @@
   </url>
   
   <url>
-    <loc>https://vincent.github.io/fantasticplastic/portfolio/</loc>
-    <lastmod>2018-08-05T18:25:22+05:30</lastmod>
+    <loc>https://vincent.github.io/fantasticplastic/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vincent.github.io/fantasticplastic/tags/</loc>
+    <loc>https://vincent.github.io/fantasticplastic/things/</loc>
+    <lastmod>2018-08-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   

@@ -30,7 +30,7 @@ publishDir = "docs"
   # Nav links in the side bar
   [[params.navlinks]]
     name = "Things"
-    url = "portfolio/"
+    url = "things/"
     home = true
   
   #  [[params.navlinks]]

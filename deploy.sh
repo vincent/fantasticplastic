@@ -5,8 +5,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Build the project.
 hugo -t creative # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-# make Portfolio index the main index
-cp docs/portfolio/index.html docs/index.html
+# make Things index the main index
+cp docs/things/index.html docs/index.html
 
 # Add changes to git.
 git add .

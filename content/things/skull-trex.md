@@ -18,5 +18,4 @@ PLA, smoothed with {{< zpoxy >}}, sanded, and painted with acrylic.
 I used a dry brush technique, similar to what's described <a href="https://www.youtube.com/watch?v=bG6aOyr7JUE">here</a> and <a href="https://www.youtube.com/watch?v=C9QmhHYrALk">there</a>.
 
 Part of my "Skulls" collection: <br>
-<img src="https://i.imgur.com/C1jSrKd.jpg" alt="" class="img-responsive col-lg-4">
-
+{{< imgur C1jSrKd >}}

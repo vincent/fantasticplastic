@@ -13,3 +13,6 @@ The Weighted Companion Cube is a recurring object and pseudo-character in the Po
 PLA, non post-processed.
 
 {{< thing 154177 "Extra Printable Companion Cube" reisender1673 >}}
+
+A CopperFill version:<br>
+<img src="https://i.imgur.com/RhtOzHp.jpg" alt="" class="img-responsive col-lg-4">

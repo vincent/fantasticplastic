@@ -14,5 +14,5 @@ PLA, non post-processed.
 
 {{< thing 154177 "Extra Printable Companion Cube" reisender1673 >}}
 
-A CopperFill version:<br>
+A CopperFill version, oxidized with white vinegar and polished:<br>
 <img src="https://i.imgur.com/RhtOzHp.jpg" alt="" class="img-responsive col-lg-4">

@@ -9,7 +9,7 @@
          {{ template "_internal/disqus.html" . }}
       </div>
     </div>
-    <img src="{{ .Params.image }}" alt="" class="img-responsive col-lg-4">
+    <a href="{{ .Params.image }}" target="_blank"><img src="{{ .Params.image }}" alt="" class="img-responsive col-lg-4"></a>
     {{ if .Params.image2 }}<img style="margin-top:1em;" src="{{ .Params.image2 }}" alt="" class="img-responsive col-lg-4">{{ end }}
     {{ if .Params.image3 }}<img style="margin-top:1em;" src="{{ .Params.image3 }}" alt="" class="img-responsive col-lg-4">{{ end }}
   </div>

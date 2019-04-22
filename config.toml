@@ -9,7 +9,7 @@ publishDir = "docs"
   # Use custom.css for your custom styling
   style = "sea"
   description = "3D printed objects"
-  copyright = "&copy;2016 Vincent Lark"
+  copyright = "Vincent Lark"
   sidebarAbout = [
     "My 3D printed objects"
   ]
@@ -32,7 +32,7 @@ publishDir = "docs"
     name = "Things"
     url = "things/"
     home = true
-  
+
   #  [[params.navlinks]]
   #  name = "About"
   #  url = "about/"

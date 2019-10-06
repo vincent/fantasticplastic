@@ -19,3 +19,5 @@ I used a dry brush technique, similar to what's described <a href="https://www.y
 
 Part of my "Skulls" collection: <br>
 {{< imgur C1jSrKd >}}
+{{< imgur IQ4hLrF >}}
+{{< imgur xJNZ9wF >}}

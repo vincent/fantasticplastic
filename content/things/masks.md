@@ -12,12 +12,12 @@ Masks collection
 
 {{< thing 2402310 "Loki mask" Byambaa >}}
 
-<br>
+<br style="clear:both">
 
 {{< imgur 9at7SRs >}}
 {{< thing 3537983 "Skyrim Mask Dragon Priest Mask" dactylus >}}
 
-<br>
+<br style="clear:both">
 
 {{< imgur 38jT8PS >}}
 <a href="https://www.myminifactory.com/object/3d-print-guy-fawkes-anonymous-mask-2582">Anonymous Mask</a> by <a href="https://www.myminifactory.com/users/fabiobautista">Fabio Bautista</a>

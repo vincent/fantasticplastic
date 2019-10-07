@@ -7,7 +7,7 @@ title = "Portal Box"
 weight = 0
 +++
 
-A portal-themed box night night.
+A portal-themed box night light.
 <!--more-->
 
 PLA.

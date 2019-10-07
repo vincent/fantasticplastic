@@ -10,11 +10,14 @@ weight = 0
 Masks collection 
 <!--more-->
 
-{{< imgur BwU0h71 >}}
 {{< thing 2402310 "Loki mask" Byambaa >}}
+
+<br>
 
 {{< imgur 9at7SRs >}}
 {{< thing 3537983 "Skyrim Mask Dragon Priest Mask" dactylus >}}
+
+<br>
 
 {{< imgur 38jT8PS >}}
 <a href="https://www.myminifactory.com/object/3d-print-guy-fawkes-anonymous-mask-2582">Anonymous Mask</a> by <a href="https://www.myminifactory.com/users/fabiobautista">Fabio Bautista</a>

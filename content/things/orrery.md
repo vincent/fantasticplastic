@@ -12,5 +12,4 @@ An orrery is a mechanical model of the Solar System that illustrates or predicts
 
 From the excelent model <a href="https://www.instructables.com/id/Solar-System-Orrery-3D-Printed">Solar System Orrery 3D Printed</a> by <a href="https://www.instructables.com/member/dragonator">dragonator</a>
 
-<video controls src="https://i.imgur.com/an4oiJI.mp4"></video>
 
